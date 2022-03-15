@@ -28,11 +28,11 @@ enter password (follow me then contact on telegram to get the password)
 
 su
 
-cd pubg
+cd apex
 
 ls 
 
-sh pubg.sh
+sh apex.sh
 
 
 
