@@ -28,7 +28,7 @@ enter password (follow me then contact on telegram to get the password)
 
 su
 
-cd apex
+cd apex1.1
 
 ls 
 
