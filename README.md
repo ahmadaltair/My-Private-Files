@@ -20,7 +20,7 @@ sh pubg.sh
 
 #2 PATCH FILE APEX LEGENDS 
 
-git clone https://github.com/ahmadaltair/apex 
+git clone https://github.com/ahmadaltair/apex1.1
 
 enter your username / my username 
 
