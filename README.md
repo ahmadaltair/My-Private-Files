@@ -20,7 +20,7 @@ sh pubg.sh
 
 #2 PATCH FILE APEX LEGENDS 
 
-git clone https://github.com/ahmadaltair/apex1.1
+git clone https://github.com/ahmadaltair/apex1.3
 
 enter your username / my username 
 
@@ -28,7 +28,7 @@ enter password (follow me then contact on telegram to get the password)
 
 su
 
-cd apex1.1
+cd apex1.3
 
 ls 
 
